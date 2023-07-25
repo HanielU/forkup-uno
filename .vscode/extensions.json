@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "antfu.unocss",
+    "prisma.prisma",
+    "svelte.svelte-vscode",
+    "antfu.iconify"
+  ]
+}
